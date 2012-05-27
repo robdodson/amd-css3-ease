@@ -8,11 +8,12 @@ and ti's setup to be AMD compliant so you can use it in your Backbone apps.
 
 ### Example usage
 
+``` js
+
 // After requiring the ease module and
 // passing it into your View with the
 // name 'Ease'
 
-``` js
 this.$el.gfx({
     translateY: '300px'
 }, {
